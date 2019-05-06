@@ -1,24 +1,23 @@
 @font-face {
     font-family: 'Rubik';
-    src: url('https://cdn.jsdelivr.net/gh/gadgetraja/official-site-statics@master/fonts/subset-Rubik-Regular.eot');
+    src: url('https://cdn.staticaly.com/gh/gadgetraja/official-site-statics/a421d8f8/fonts/subset-Rubik-Regular.eot');
     src: local('Rubik Regular'), local('Rubik-Regular'),
-        url('https://cdn.jsdelivr.net/gh/gadgetraja/official-site-statics@master/fonts/subset-Rubik-Regular.eot?#iefix') format('embedded-opentype'),
-        url('https://cdn.jsdelivr.net/gh/gadgetraja/official-site-statics@master/fonts/subset-Rubik-Regular.woff2') format('woff2'),
-        url('https://cdn.jsdelivr.net/gh/gadgetraja/official-site-statics@master/fonts/subset-Rubik-Regular.woff') format('woff'),
-        url('https://cdn.jsdelivr.net/gh/gadgetraja/official-site-statics@master/fonts/subset-Rubik-Regular.ttf') format('truetype');
+        url('https://cdn.staticaly.com/gh/gadgetraja/official-site-statics/a421d8f8/fonts/subset-Rubik-Regular.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.staticaly.com/gh/gadgetraja/official-site-statics/a421d8f8/fonts/subset-Rubik-Regular.woff2') format('woff2'),
+        url('https://cdn.staticaly.com/gh/gadgetraja/official-site-statics/a421d8f8/fonts/subset-Rubik-Regular.woff') format('woff'),
+        url('https://cdn.staticaly.com/gh/gadgetraja/official-site-statics/a421d8f8/fonts/subset-Rubik-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Barlow';
-    src: url('https://cdn.jsdelivr.net/gh/gadgetraja/official-site-statics@master/fonts/subset-Barlow-SemiBold.eot');
+    src: url('https://cdn.staticaly.com/gh/gadgetraja/official-site-statics/a421d8f8/fonts/subset-Barlow-SemiBold.eot');
     src: local('Barlow SemiBold'), local('Barlow-SemiBold'),
-        url('https://cdn.jsdelivr.net/gh/gadgetraja/official-site-statics@master/fonts/subset-Barlow-SemiBold.eot?#iefix') format('embedded-opentype'),
-        url('https://cdn.jsdelivr.net/gh/gadgetraja/official-site-statics@master/fonts/subset-Barlow-SemiBold.woff2') format('woff2'),
-        url('https://cdn.jsdelivr.net/gh/gadgetraja/official-site-statics@master/fonts/subset-Barlow-SemiBold.woff') format('woff'),
-        url('https://cdn.jsdelivr.net/gh/gadgetraja/official-site-statics@master/fonts/subset-Barlow-SemiBold.ttf') format('truetype');
+        url('https://cdn.staticaly.com/gh/gadgetraja/official-site-statics/a421d8f8/fonts/subset-Barlow-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.staticaly.com/gh/gadgetraja/official-site-statics/a421d8f8/fonts/subset-Barlow-SemiBold.woff2') format('woff2'),
+        url('https://cdn.staticaly.com/gh/gadgetraja/official-site-statics/a421d8f8/fonts/subset-Barlow-SemiBold.woff') format('woff'),
+        url('https://cdn.staticaly.com/gh/gadgetraja/official-site-statics/a421d8f8/fonts/subset-Barlow-SemiBold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
 }
-
