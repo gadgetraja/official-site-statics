@@ -1,5 +1,6 @@
 @font-face {
     font-family: 'Rubik';
+    font-display: swap;
     src: url('https://cdn.staticaly.com/gh/gadgetraja/official-site-statics/a421d8f8/fonts/subset-Rubik-Regular.eot');
     src: local('Rubik Regular'), local('Rubik-Regular'),
         url('https://cdn.staticaly.com/gh/gadgetraja/official-site-statics/a421d8f8/fonts/subset-Rubik-Regular.eot?#iefix') format('embedded-opentype'),
@@ -12,6 +13,7 @@
 
 @font-face {
     font-family: 'Barlow';
+    font-display: swap;
     src: url('https://cdn.staticaly.com/gh/gadgetraja/official-site-statics/a421d8f8/fonts/subset-Barlow-SemiBold.eot');
     src: local('Barlow SemiBold'), local('Barlow-SemiBold'),
         url('https://cdn.staticaly.com/gh/gadgetraja/official-site-statics/a421d8f8/fonts/subset-Barlow-SemiBold.eot?#iefix') format('embedded-opentype'),
